@@ -2,5 +2,5 @@
  layout : slide 
 title : " İkinci slaytımıza hoş geldiniz! "
 ---
-Metniniz 
+merhaba herkese duzenledim
 Geri gitmek için sol oku kullanın
